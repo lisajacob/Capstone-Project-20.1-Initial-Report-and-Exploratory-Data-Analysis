@@ -29,7 +29,7 @@ Augment the dataset with transformations and compare difference architectures
 #### Outline of project
 
 - [Exploratory Data Analysis]()
-- [Initial pass at algorithm development]()
+- [Initial pass at algorithm development](https://github.com/lisajacob/Capstone-Project-20.1-Initial-Report-and-Exploratory-Data-Analysis/blob/main/CapstoneLunarDataPreprocessing.ipynb)
 
 ##### Contact and Further Information
 For further information, send an email to lisa.jacob@gmail.com
