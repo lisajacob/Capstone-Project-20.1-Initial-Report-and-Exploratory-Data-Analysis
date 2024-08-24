@@ -16,9 +16,9 @@ Kaggle dataset [Artificial Lunar Rocky Landscape](https://www.kaggle.com/dataset
 #### Methodology
 For this project, I will be using ResNeXt, which is a Convolutional Neural Network (CNN) architecture that was developed by Microsoft Research and introduced in 2017 in a paper titled [Aggregated Residual Transformations for Deep Neural Networks](https://ieeexplore.ieee.org/document/8100117)
 This project will utilize PyTorch which has the following model builders in Torchvision tool to instantiate a ResNeXt model.
-resnext50_32x4d (*[, weights, progress])
-resnext101_32x8d (*[, weights, progress])
-resnext101_64x4d (*[, weights, progress])
+- resnext50_32x4d 
+- resnext101_32x8d 
+- resnext101_64x4d 
 
 #### Results
 Out of the 4 classes, the semantic segmentation module successfully found 2 classes. The algorithm needs to be improved to find all 4 classes with very little loss.
