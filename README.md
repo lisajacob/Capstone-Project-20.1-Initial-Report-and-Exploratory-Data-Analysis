@@ -27,9 +27,9 @@ Out of the 4 classes, the semantic segmentation module successfully found 2 clas
 Augment the dataset with transformations and compare difference architectures
 
 #### Outline of project
-
-- [Exploratory Data Analysis]()
-- [Initial pass at algorithm development](https://github.com/lisajacob/Capstone-Project-20.1-Initial-Report-and-Exploratory-Data-Analysis/blob/main/CapstoneLunarDataPreprocessing.ipynb)
+- [Preprocessing](https://github.com/lisajacob/Capstone-Project-20.1-Initial-Report-and-Exploratory-Data-Analysis/blob/main/DataPreprocessing.ipynb)
+- [Exploratory Data Analysis](https://github.com/lisajacob/Capstone-Project-20.1-Initial-Report-and-Exploratory-Data-Analysis/blob/main/EDA.ipynb)
+- [Initial pass at algorithm development](https://github.com/lisajacob/Capstone-Project-20.1-Initial-Report-and-Exploratory-Data-Analysis/blob/main/LunarDataModels.ipynb)
 
 ##### Contact and Further Information
 For further information, send an email to lisa.jacob@gmail.com
